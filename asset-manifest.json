@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/EDnotSheeran-Blog/static/css/main.96731f64.chunk.css",
+    "main.js": "/EDnotSheeran-Blog/static/js/main.2b432436.chunk.js",
+    "main.js.map": "/EDnotSheeran-Blog/static/js/main.2b432436.chunk.js.map",
+    "runtime-main.js": "/EDnotSheeran-Blog/static/js/runtime-main.fa6ac6fe.js",
+    "runtime-main.js.map": "/EDnotSheeran-Blog/static/js/runtime-main.fa6ac6fe.js.map",
+    "static/css/2.aca3de8c.chunk.css": "/EDnotSheeran-Blog/static/css/2.aca3de8c.chunk.css",
+    "static/js/2.c9eec9f9.chunk.js": "/EDnotSheeran-Blog/static/js/2.c9eec9f9.chunk.js",
+    "static/js/2.c9eec9f9.chunk.js.map": "/EDnotSheeran-Blog/static/js/2.c9eec9f9.chunk.js.map",
+    "index.html": "/EDnotSheeran-Blog/index.html",
+    "precache-manifest.6e3ba14331ae28b9741286c025759343.js": "/EDnotSheeran-Blog/precache-manifest.6e3ba14331ae28b9741286c025759343.js",
+    "service-worker.js": "/EDnotSheeran-Blog/service-worker.js",
+    "static/css/2.aca3de8c.chunk.css.map": "/EDnotSheeran-Blog/static/css/2.aca3de8c.chunk.css.map",
+    "static/css/main.96731f64.chunk.css.map": "/EDnotSheeran-Blog/static/css/main.96731f64.chunk.css.map",
+    "static/js/2.c9eec9f9.chunk.js.LICENSE.txt": "/EDnotSheeran-Blog/static/js/2.c9eec9f9.chunk.js.LICENSE.txt",
+    "static/media/ionicons-v4.css": "/EDnotSheeran-Blog/static/media/ionicons.99b86349.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa6ac6fe.js",
+    "static/css/2.aca3de8c.chunk.css",
+    "static/js/2.c9eec9f9.chunk.js",
+    "static/css/main.96731f64.chunk.css",
+    "static/js/main.2b432436.chunk.js"
+  ]
+}
