@@ -1,13 +1,12 @@
 {
-  "name": "my-react-blog",
+  "name": "ednotsheeran-blog",
+  "homepage": "https://ednotsheeran.github.io/EDnotSheeran-Blog/.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@quasar/extras": "^1.8.2",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
     "antd": "^4.4.2",
+    "gh-pages": "^3.1.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -17,6 +16,8 @@
     "sass-loader": "^9.0.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
