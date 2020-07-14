@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EDnotSheeran-Blog/static/css/main.96731f64.chunk.css",
-    "main.js": "/EDnotSheeran-Blog/static/js/main.2b432436.chunk.js",
-    "main.js.map": "/EDnotSheeran-Blog/static/js/main.2b432436.chunk.js.map",
+    "main.js": "/EDnotSheeran-Blog/static/js/main.49dbcf4c.chunk.js",
+    "main.js.map": "/EDnotSheeran-Blog/static/js/main.49dbcf4c.chunk.js.map",
     "runtime-main.js": "/EDnotSheeran-Blog/static/js/runtime-main.fa6ac6fe.js",
     "runtime-main.js.map": "/EDnotSheeran-Blog/static/js/runtime-main.fa6ac6fe.js.map",
     "static/css/2.aca3de8c.chunk.css": "/EDnotSheeran-Blog/static/css/2.aca3de8c.chunk.css",
     "static/js/2.c9eec9f9.chunk.js": "/EDnotSheeran-Blog/static/js/2.c9eec9f9.chunk.js",
     "static/js/2.c9eec9f9.chunk.js.map": "/EDnotSheeran-Blog/static/js/2.c9eec9f9.chunk.js.map",
     "index.html": "/EDnotSheeran-Blog/index.html",
-    "precache-manifest.6e3ba14331ae28b9741286c025759343.js": "/EDnotSheeran-Blog/precache-manifest.6e3ba14331ae28b9741286c025759343.js",
+    "precache-manifest.ca5ada41125235127b25af22ff937fcd.js": "/EDnotSheeran-Blog/precache-manifest.ca5ada41125235127b25af22ff937fcd.js",
     "service-worker.js": "/EDnotSheeran-Blog/service-worker.js",
     "static/css/2.aca3de8c.chunk.css.map": "/EDnotSheeran-Blog/static/css/2.aca3de8c.chunk.css.map",
     "static/css/main.96731f64.chunk.css.map": "/EDnotSheeran-Blog/static/css/main.96731f64.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.aca3de8c.chunk.css",
     "static/js/2.c9eec9f9.chunk.js",
     "static/css/main.96731f64.chunk.css",
-    "static/js/main.2b432436.chunk.js"
+    "static/js/main.49dbcf4c.chunk.js"
   ]
 }

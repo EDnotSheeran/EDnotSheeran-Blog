@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/EDnotSheeran-Blog/precache-manifest.6e3ba14331ae28b9741286c025759343.js"
+  "/EDnotSheeran-Blog/precache-manifest.ca5ada41125235127b25af22ff937fcd.js"
 );
 
 self.addEventListener('message', (event) => {
