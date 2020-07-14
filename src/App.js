@@ -11,7 +11,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename={process.env.REACT_APP_BASENAME}>
       <div className="App">
         <Navigation user={user}/>
         <Switch>
