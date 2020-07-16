@@ -1,0 +1,10 @@
+.mansory {
+    display: grid;
+    grid-gap: 30px;
+}
+@media screen and (max-width: 900px) {
+    .mansory {
+        display: flex;
+        flex-direction: column;
+    }
+}

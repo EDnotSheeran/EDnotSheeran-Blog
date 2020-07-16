@@ -5,6 +5,9 @@
     display: flex;
     justify-content: space-between;
     color: $text-color;
+    position: fixed;
+    z-index: 100;
+    top: 0;
 
     span.menu-title {
         font-size: 24px;
@@ -67,7 +70,7 @@
             width: 300px;
             height: calc(100% - 65px);
             background: white;
-            position: absolute;
+            position: fixed;
             top: 65px;
             left: -300px;
             transition: 300ms ease left;
@@ -75,22 +78,21 @@
             padding: 0;
             padding-left: 30px;
 
-            a {
-                width: 100%;
-                padding: 0;
-            }
-
-            li {
-                height: 65px;
-                display: flex;
-                align-items: center;
-            }
-
             ul {
                 flex-direction: column;
                 justify-content: flex-start;
-                padding: 0;
-                padding-top: 20px;
+                
+                a {
+                    width: 100%;
+                    padding: 20px 15px;
+                }
+    
+                li {
+                    height: 65px;
+                    display: flex;
+                    align-items: center;
+                    text-align: left;
+                }
             }
 
             ul, li, .menu-avatar-container {

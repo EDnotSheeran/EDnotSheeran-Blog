@@ -26,7 +26,7 @@ export default ({user}) => {
 
     return (
         <nav className='site-navigation'>
-            <span className='menu-title'>My Blog React</span>
+            <span className='menu-title'>EDnotSheeran's Blog</span>
             <div className={`menu-content-container ${menuActive && 'active'}`}>
                 <ul>
                     {navLinks.map((link, index) => (
@@ -37,7 +37,7 @@ export default ({user}) => {
                     }
                 </ul>
                 <span className='menu-avatar-container'>
-                    <Avatar src="https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png" size={38}/>
+                    <Avatar src="https://avatars2.githubusercontent.com/u/55529750?v=4" size={38}/>
                     <span className='menu-avatar-name'>{`${user.firstName} ${user.lastName}`}</span>
                 </span>
             </div>
