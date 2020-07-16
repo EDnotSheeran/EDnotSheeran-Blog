@@ -1,26 +1,31 @@
 {
   "files": {
-    "main.css": "/EDnotSheeran-Blog/static/css/main.96731f64.chunk.css",
-    "main.js": "/EDnotSheeran-Blog/static/js/main.49dbcf4c.chunk.js",
-    "main.js.map": "/EDnotSheeran-Blog/static/js/main.49dbcf4c.chunk.js.map",
+    "main.css": "/EDnotSheeran-Blog/static/css/main.167a4fdf.chunk.css",
+    "main.js": "/EDnotSheeran-Blog/static/js/main.ca17ec3f.chunk.js",
+    "main.js.map": "/EDnotSheeran-Blog/static/js/main.ca17ec3f.chunk.js.map",
     "runtime-main.js": "/EDnotSheeran-Blog/static/js/runtime-main.fa6ac6fe.js",
     "runtime-main.js.map": "/EDnotSheeran-Blog/static/js/runtime-main.fa6ac6fe.js.map",
     "static/css/2.aca3de8c.chunk.css": "/EDnotSheeran-Blog/static/css/2.aca3de8c.chunk.css",
-    "static/js/2.c9eec9f9.chunk.js": "/EDnotSheeran-Blog/static/js/2.c9eec9f9.chunk.js",
-    "static/js/2.c9eec9f9.chunk.js.map": "/EDnotSheeran-Blog/static/js/2.c9eec9f9.chunk.js.map",
+    "static/js/2.3f6735ed.chunk.js": "/EDnotSheeran-Blog/static/js/2.3f6735ed.chunk.js",
+    "static/js/2.3f6735ed.chunk.js.map": "/EDnotSheeran-Blog/static/js/2.3f6735ed.chunk.js.map",
     "index.html": "/EDnotSheeran-Blog/index.html",
-    "precache-manifest.ca5ada41125235127b25af22ff937fcd.js": "/EDnotSheeran-Blog/precache-manifest.ca5ada41125235127b25af22ff937fcd.js",
+    "precache-manifest.67350979b9481687de41c11e840daaa8.js": "/EDnotSheeran-Blog/precache-manifest.67350979b9481687de41c11e840daaa8.js",
     "service-worker.js": "/EDnotSheeran-Blog/service-worker.js",
     "static/css/2.aca3de8c.chunk.css.map": "/EDnotSheeran-Blog/static/css/2.aca3de8c.chunk.css.map",
-    "static/css/main.96731f64.chunk.css.map": "/EDnotSheeran-Blog/static/css/main.96731f64.chunk.css.map",
-    "static/js/2.c9eec9f9.chunk.js.LICENSE.txt": "/EDnotSheeran-Blog/static/js/2.c9eec9f9.chunk.js.LICENSE.txt",
+    "static/css/main.167a4fdf.chunk.css.map": "/EDnotSheeran-Blog/static/css/main.167a4fdf.chunk.css.map",
+    "static/js/2.3f6735ed.chunk.js.LICENSE.txt": "/EDnotSheeran-Blog/static/js/2.3f6735ed.chunk.js.LICENSE.txt",
+    "static/media/O-que-é-um-Blog.webp": "/EDnotSheeran-Blog/static/media/O-que-é-um-Blog.b7f9febe.webp",
+    "static/media/anyone_can_code.jpg": "/EDnotSheeran-Blog/static/media/anyone_can_code.ac327bb0.jpg",
+    "static/media/como-ter-um-blog-9.jpg": "/EDnotSheeran-Blog/static/media/como-ter-um-blog-9.4f1f5bbe.jpg",
+    "static/media/como-ter-um-blog.jpg": "/EDnotSheeran-Blog/static/media/como-ter-um-blog.393e8467.jpg",
+    "static/media/criar-um-blog.png": "/EDnotSheeran-Blog/static/media/criar-um-blog.8c139523.png",
     "static/media/ionicons-v4.css": "/EDnotSheeran-Blog/static/media/ionicons.99b86349.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.fa6ac6fe.js",
     "static/css/2.aca3de8c.chunk.css",
-    "static/js/2.c9eec9f9.chunk.js",
-    "static/css/main.96731f64.chunk.css",
-    "static/js/main.49dbcf4c.chunk.js"
+    "static/js/2.3f6735ed.chunk.js",
+    "static/css/main.167a4fdf.chunk.css",
+    "static/js/main.ca17ec3f.chunk.js"
   ]
 }
